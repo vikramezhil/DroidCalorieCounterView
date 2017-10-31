@@ -84,6 +84,8 @@ In your class file, initialize Droid Calorie Counter View using the ID specified
 
 ```java
 CalorieCounterView calorieCounterView = findViewById(R.id.calorieCounterView);
+calorieCounterView.setIgnoreMax(true);
+calorieCounterView.setDangerMaxWarning(true, Color.RED);
 ```
 
 Set and implement the Droid Calorie Counter View listener method
