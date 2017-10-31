@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/vikram/.android/build-cache/0bfebd87949387d6c188ff45912bf4eea458f8a2/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

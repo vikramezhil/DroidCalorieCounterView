@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="com.vikramezhil.dccviewexample.ActivityDCC">
+
+
+    <com.vikramezhil.dccv.CalorieCounterView
+        android:id="@+id/calorieCounterView"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        app:dccvHeaderTxt="@string/defTargetCalories"
+        app:dccvHeaderSubTxt="@string/caloriesLeft"
+        app:dccvFooterTxt="@string/defCaloriesConsumed"
+        app:dccvFooterSubTxt="@string/consumed"
+        app:dccvClickable="true"/>
+
+        <!--app:dccvMin="0"-->
+        <!--app:dccvMax="1500"-->
+        <!--app:dccvProgress="100"-->
+        <!--app:dccvThickness="15dp"-->
+        <!--app:dccvHeaderTxtSize="50dp"-->
+        <!--app:dccvHeaderSubTxtSize="20dp"-->
+        <!--app:dccvFooterTxtSize="18dp"-->
+        <!--app:dccvFooterSubTxtSize="18dp"-->
+</LinearLayout>

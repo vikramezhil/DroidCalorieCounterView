@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DroidCircleProgressView"><attr format="integer" name="dccvMin"/><attr format="integer" name="dccvMax"/><attr format="integer" name="dccvProgress"/><attr format="color" name="dccvBackgroundColor"/><attr format="color" name="dccvProgressColor"/><attr format="color" name="dccvHeaderTxtColor"/><attr format="color" name="dccvHeaderSubTxtColor"/><attr format="color" name="dccvFooterTxtColor"/><attr format="color" name="dccvFooterSubTxtColor"/><attr format="dimension" name="dccvThickness"/><attr format="dimension" name="dccvHeaderTxtSize"/><attr format="dimension" name="dccvHeaderSubTxtSize"/><attr format="dimension" name="dccvFooterTxtSize"/><attr format="dimension" name="dccvFooterSubTxtSize"/><attr format="string" name="dccvHeaderTxt"/><attr format="string" name="dccvHeaderSubTxt"/><attr format="string" name="dccvFooterTxt"/><attr format="string" name="dccvFooterSubTxt"/><attr format="boolean" name="dccvClickable"/></declare-styleable>
+    <string name="app_name">DroidCCV</string>
+</resources>

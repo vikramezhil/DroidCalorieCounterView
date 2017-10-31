@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/anim/tooltip_exit.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/anim/tooltip_enter.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/dccv/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/vikram/.android/build-cache/224783ddfbf6fc1b91e0203a4775c88e91955d19/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]
