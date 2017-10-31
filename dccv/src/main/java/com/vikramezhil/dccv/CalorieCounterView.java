@@ -527,7 +527,7 @@ public class CalorieCounterView extends View
      *
      * @param thickness The desired thickness size
      */
-    public void setProgressViewThickness(float thickness) {
+    public void setThickness(float thickness) {
         properties.dccvThickness = thickness;
 
         backgroundPaint.setStrokeWidth(thickness);
