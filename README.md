@@ -62,6 +62,7 @@ In your layout file add Droid Calorie Counter View,
 
 ```xml
 <com.vikramezhil.dccv.CalorieCounterView
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/calorieCounterView"
     android:layout_width="250dp"
     android:layout_height="250dp"
