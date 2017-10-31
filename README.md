@@ -30,7 +30,7 @@ Add this to your app build.gradle:
 
 ```java
 dependencies {
-    compile 'com.github.vikramezhil:DroidCalorieCounterView:v1.0.0'
+    compile 'com.github.vikramezhil:DroidCalorieCounterView:v1.0'
 }
 ```
 
@@ -51,7 +51,7 @@ Add the following to the <dependencies> section of your pom.xml:
 <dependency>
     <groupId>com.github.vikramezhil</groupId>
     <artifactId>DroidCalorieCounterView</artifactId>
-    <version>v1.0.0</version>
+    <version>v1.0</version>
 </dependency>
 ```
 <b><h1>Documentation</h1></b>
