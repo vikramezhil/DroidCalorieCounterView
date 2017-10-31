@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Oct 31 15:38:43 IST 2017
+#Tue Oct 31 16:38:54 IST 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/Users/vikram/Documents/Development/Libraries/Vikram/DroidCalorieCounter/app/build/intermediates/res/resources-debug.ap_/res/drawable/tooltip_frame_light.xml

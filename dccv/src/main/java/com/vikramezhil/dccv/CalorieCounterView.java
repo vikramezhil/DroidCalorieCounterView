@@ -376,8 +376,8 @@ public class CalorieCounterView extends View
             yPositions.add(0f);
         }
         else {
-            // Increasing the y position by 50%
-            yPositions.add(Math.abs(proposedYPosition + ((proposedYPosition/100) * 50)) - ((textFooterSubPaint.descent() + textFooterSubPaint.ascent()) / 2));
+            // Increasing the y position by 55%
+            yPositions.add(Math.abs(proposedYPosition + ((proposedYPosition/100) * 55)) - ((textFooterSubPaint.descent() + textFooterSubPaint.ascent()) / 2));
         }
 
         return yPositions;
