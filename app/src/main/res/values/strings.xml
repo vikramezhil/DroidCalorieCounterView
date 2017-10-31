@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DroidCCVExample</string>
+    <string name="defTargetCalories">1500</string>
+    <string name="defCaloriesConsumed">0</string>
+    <string name="caloriesLeft">Calories left</string>
+    <string name="consumed">consumed</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DroidCircleProgressView">
+        <attr name="dccvMin" format="integer"/>
+        <attr name="dccvMax" format="integer"/>
+        <attr name="dccvProgress" format="integer"/>
+        <attr name="dccvBackgroundColor" format="color"/>
+        <attr name="dccvProgressColor" format="color"/>
+        <attr name="dccvHeaderTxtColor" format="color"/>
+        <attr name="dccvHeaderSubTxtColor" format="color"/>
+        <attr name="dccvFooterTxtColor" format="color"/>
+        <attr name="dccvFooterSubTxtColor" format="color"/>
+        <attr name="dccvThickness" format="dimension"/>
+        <attr name="dccvHeaderTxtSize" format="dimension"/>
+        <attr name="dccvHeaderSubTxtSize" format="dimension"/>
+        <attr name="dccvFooterTxtSize" format="dimension"/>
+        <attr name="dccvFooterSubTxtSize" format="dimension"/>
+        <attr name="dccvHeaderTxt" format="string"/>
+        <attr name="dccvHeaderSubTxt" format="string"/>
+        <attr name="dccvFooterTxt" format="string"/>
+        <attr name="dccvFooterSubTxt" format="string"/>
+        <attr name="dccvClickable" format="boolean"/>
+    </declare-styleable>
+</resources>
